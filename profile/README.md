@@ -1,12 +1,19 @@
-## Hi there 👋
+![welcome to team constancy](your_cool_intro.gif)
 
-<!--
+# Team Constancy
 
-**Here are some ideas to get you started:**
+School: YoungWonks
+Division: High School
+Challenges: App Development Challenge
+Years: 2025-2026
+================
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Members:**
+
+* Aarin Dave (Lead Simulation Programmer, UI Developer)
+* Ayush Sarkar (Simulation Programmer)
+* Michael Yang (Data Specialist)
+* Nathan Apte (Project Manager, Simulation Programmer, VFX Artist)
+* Neel Raina (Simulation Programmer)
+* Shravan Sithambaram (Digital Designer, Simulation Programmer)
+* Vansh Advani (Computer-Generated Imagery Artist)
