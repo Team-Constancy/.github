@@ -2,8 +2,8 @@
 
 # Team Constancy
 
-Representing: Young Wonks
-Challenge: Nasa ADC
+Representing: Young Wonks |
+Challenge: Nasa ADC |
 Division: High School
 
 # Years: 2025-2026
