@@ -2,11 +2,11 @@
 
 # Team Constancy
 
-School: YoungWonks
+Representing: Young Wonks
+Challenge: Nasa ADC
 Division: High School
-Challenges: App Development Challenge
-Years: 2025-2026
-================
+
+# Years: 2025-2026
 
 **Members:**
 
