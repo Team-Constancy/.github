@@ -26,9 +26,9 @@ Team Hydrogen would like to thank the following members of our founding organiza
 - Jayson Harriott, for kickstarting our project and performing required formal procedures.
 
 [^1]: Lowndes High School, Valdosta, GA
-[^2]: __
+[^2]: __ High School, __, CA
 [^3]: Arroyo High School, El Monte, CA
 [^4]: Emerald High School, Dublin, CA
 [^5]: Mountain House High School, Mountain House, CA
 [^6]: Amador Valley School, Pleasanton, CA
-[^7]: __
+[^7]: James Logan High School, Union City, CA
