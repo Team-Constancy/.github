@@ -2,18 +2,17 @@
 
 # Team Constancy
 
-Representing: Young Wonks |
-Challenge: Nasa ADC |
+School: YoungWonks Coding School
+Challenge: NASA App Development Challenge
 Division: High School
 
-# Years: 2025-2026
+# Year: 2026
 
 **Members:**
-
-* Aarin Dave (Lead Simulation Programmer, UI Developer)
-* Ayush Sarkar (Simulation Programmer)
+* Aarin Dave (Lead Simulation Developer, UI Developer)
+* Ayush Sarkar (Simulation Developer)
 * Michael Yang (Data Specialist)
-* Nathan Apte (Project Manager, Simulation Programmer, VFX Artist)
-* Neel Raina (Simulation Programmer)
-* Shravan Sithambaram (Digital Designer, Simulation Programmer)
+* Nathan Apte (Project Manager, Simulation Developer, VFX Artist)
+* Neel Raina (Simulation Developer)
+* Shravan Sithambaram (Digital Designer, Simulation Developer)
 * Vansh Advani (Computer-Generated Imagery Artist)
