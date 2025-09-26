@@ -17,7 +17,7 @@ In the 2026 NASA App Development Challenge, high school teams have 10 weeks to c
 ## Our Tools
 - Blender (4.2.6 LTS)
 - Rider (2024.3.3)
-- Unity Editor (6000.0.34f1 LTS)
+- Unity Editor (6000.2.4f1 LTS)
 - Visual Studio 2022 (17.12.4)
 
 ## Acknowledgements
@@ -27,7 +27,7 @@ Team Hydrogen would like to thank the following members of our founding organiza
 
 [^1]: Lowndes High School, Valdosta, GA
 [^2]: Monte Vista High School, Danville, CA
-[^3]: Arroyo High School, El Monte, CA
+[^3]: Arroyo High School, San Lorenzo, CA
 [^4]: Emerald High School, Dublin, CA
 [^5]: Mountain House High School, Mountain House, CA
 [^6]: Amador Valley School, Pleasanton, CA
