@@ -15,9 +15,9 @@ In the 2026 NASA App Development Challenge, high school teams have 10 weeks to c
 - [Vansh Advani](https://github.com/vadvani37)[^7]: Computer-Generated Imagery Artist
 
 ## Our Tools
-- Blender (4.2.6 LTS)
-- Rider (2024.3.3)
-- Unity Editor (6000.2.4f1 LTS)
+- Blender (4.5.3 LTS)
+- Rider (2025.2.2)
+- Unity Editor (6000.2.6f1 LTS)
 - Visual Studio 2022 (17.12.4)
 
 ## Acknowledgements
