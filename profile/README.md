@@ -1,6 +1,6 @@
-![welcome to team constancy](your_cool_intro.gif)
+![Welcome to Team Vortex](your_cool_intro.gif)
 
-# Team Constancy
+# Team Vortex
 
 ## Challenge Information
 In the 2026 NASA App Development Challenge, high school teams have 10 weeks to create a video showcasing their application ________________.
@@ -21,7 +21,7 @@ In the 2026 NASA App Development Challenge, high school teams have 10 weeks to c
 - Visual Studio 2022 (17.12.4)
 
 ## Acknowledgements
-Team Hydrogen would like to thank the following members of our founding organization YoungWonks for their unwavering support and encouragement throughout the development of our application.
+Team Vortex would like to thank the following members of our founding organization YoungWonks for their unwavering support and encouragement throughout the development of our application.
 - [Suchin Ravi](https://github.com/wonksknowsuchin), for organizing this team, providing mentorship in machine learning, and guiding the trajectory of our project.
 - Jayson Harriott, for kickstarting our project and performing required formal procedures.
 
